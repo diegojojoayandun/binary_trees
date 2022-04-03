@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is about Binary Trees in C and other tree-type data structures.
+Binary Trees in C (create, delete, search and print)).
 
 ## Learning Objectives
 
@@ -12,12 +12,6 @@ This project is about Binary Trees in C and other tree-type data structures.
 * What are the depth, the height, the size of a binary tree
 * What are the different traversal methods to go through a binary tree
 * What is a complete, a full, a perfect, a balanced binary tree
-
-## Usage
-
-* All files were created and compiled on Ubuntu 14.04.4 LTS on gcc 4.8.4 \
-using the flags -Wall -Werror -Wextra and -pedantic
-* All files were linted for syntax and style with [Betty](https://github.com/holbertonschool/Betty)
 
 ## Table of contents
 Files | Description
@@ -43,5 +37,5 @@ Files | Description
 [18-binary_tree_uncle.c](./18-binary_tree_uncle.c) | C function that finds the uncle of a node
 
 ### Authors
-* [Laura Roudge](https://github.com/lroudge) - [@LRoudge](https://twitter.com/LRoudge)
-* [Jason Cortella](https://github.com/jasoncortella) - [@JasonCortella](https://twitter.com/JasonCortella)
+
+[Diego Fernando Jojoa Yandún](https://github.com/diegojojoayandun)
